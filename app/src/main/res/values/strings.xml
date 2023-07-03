@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo Database</string>
+    <string name="display_ascending">Display Ascending</string>
+    <string name="display_descending">Display Descending</string>
 </resources>
